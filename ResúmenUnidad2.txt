@@ -1,0 +1,29 @@
+Semana 2 Unidad 2
+Variables
+
+Las variables son espacios en las que podemos almacenar valores, no pueden ser muy cortas ni muy largas, es preferible que la variable ayude a identificar el valor se puede usar camelcase para separar palabras en el nombre de la variable.
+
+Tipos de datos
+Para saber qué tipo de valores debemos o podemos almacenar en una variable debemos conocer los tipos de datos que existen; entre estos están los numéricos que depende del lenguaje porque algunos soportan números negativos y otros no.
+
+Datos lógicos o booleanos que representa verdadero o falso.
+Tipo de carácter el tipo de dato carácter represento un símbolo de un código predeterminado normalmente se usa el código ascii.
+Cadena de caracteres denominado string este es escrito entre comillas dobles o comillas simples.
+
+Estructuras de control condicionales
+
+Entre ellas están IF; se ejecuta sí y sólo sí la condición es verdadera.
+
+IF…ELSE, se ejecuta el código si la condición especificada es verdadera pero también ejecuta otra instrucción en el caso de que sea falsa.
+
+IF…ELSE IF … ELSE, es utilizada para ejecutar código en caso de que la primera condición sea falsa y se quiera validar una o más condiciones.
+
+SWITCH CASE esta instrucción se utiliza si se tienen varios bloques de código y si quieren escoger uno entre todos ellos depende del valor que tenga la variable, debe tener la instrucción break para detener la ejecución del código.
+
+Estructuras de control de bucles
+Estas nos permite repetir un bloque de código determinada cantidad de veces. Dentro de estas se encuentran: 
+For tiene condición fija de cuántas veces debe realizarse una serie de instrucciones, debemos establecer una condición inicial también una condición de ejecución conocida como condición de salida que le dice el ciclo hasta cuántas veces tiene que repetirse y una variable que se incrementa cada vez que se ejecuta el ciclo. 
+
+La otra estructura se llama while esta se repite mientras una condición se cumpla significa que puede repetirse indefinidamente.
+
+Lo que me parece importante interesante en sí es como a través del lenguaje de programación podemos realizar diferentes funciones que al unirlas de una manera determinada nos permite crear un programa más o menos complejo.

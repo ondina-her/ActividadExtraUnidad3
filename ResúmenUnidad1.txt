@@ -1,0 +1,32 @@
+Semana 1 Unidad 1
+El sistema binario
+
+Es el lenguaje de las computadoras; en un principio los programas se escribían con unos y ceros, ahora usamos lenguajes de programación, con instrucciones más legibles para nosotros y se traducen al lenguaje de las computadoras. Para pasar de decimal a binario:
+
+•	Divisiones, utilizando el residuo
+En esta técnica usamos el cociente para generar el próximo dividendo y el residuo para obtener el nuevo número binario. 
+
+•	Potencias de dos
+Para este método, es necesario crear una tabla, creando todas las potencias de 2 que se consideren necesarias, de derecha a izquierda.
+
+Lógica proposicional
+
+Es parte de la lógica que estudia la formación de proposiciones complejas a partir de proposiciones simples y el valor de verdad de dichas proposiciones.
+
+Conjunción / Y / AND / && / ^
+Se usa para conectar dos proposiciones lógicas que deben ser verdaderas para poder obtener un resultado verdadero. 
+
+Disyunción / ó / OR / || / ∨
+Se usa para conectar dos proposiciones lógicas, donde cualquiera de las dos debe ser verdadera para obtener un resultado verdadero.
+
+Negación/ ¬ / ! / NO / NOT
+Se usa para negar una proposición lógica. Si la proposición es verdadera, ésta se vuelve falsa y si la proposición es falsa, ésta se vuelve verdadera.
+
+Algoritmo
+Es un conjunto de pasos finitos que se deben seguir para resolver un problema, debe tener un orden lógico y pueden ser intercambiables siempre y cuando no alteren el resultado del problema.
+
+Programación
+Programar es crear una secuencia de instrucciones para que una computadora resuelva un problema esto se hace con lógica y con algoritmos.
+
+A mí el tema que me pareció importante es la lógica proposicional y su uso; cuál ya que a través de esto nos permite pensar en un algoritmo y a la vez este nos ayuda a escribir un mejor código.
+También me parece interesante el sistema binario y cómo esto es la base de las funcionalidades de la computación. 

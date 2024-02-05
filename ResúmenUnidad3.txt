@@ -1,0 +1,16 @@
+Semana 3 unidad 3
+A la hora de escribir código existe el problema de tener muchos archivos y la posibilidad de llegar a confundirlos y esto aumenta si tenemos colaboradores.
+Para ello existen diversos controladores de versiones tales como CVS, GIT, mercurial y otros.
+
+Los controladores de versiones son programas que llevan el control de los cambios realizados de esta manera nos permite ver el historial de los cambios, así como los archivos cómo se encontraban anteriormente también podemos realizar comentarios y llevar datos sobre cuáles fueron los cambios y quién los ha realizado para poder compararlos y/o recuperarlos.
+
+De esta manera podemos descargar la última versión de git de los diferentes enlaces; presionamos ejecutar en el cuadro de diálogo luego de haber descargado el programa, y procedemos a instalar nuestro programa aceptamos la licencia, instalamos el icono en el escritorio si lo deseamos, configuramos nuestro editor de texto y posteriormente le damos en finalizar; posteriormente nuestro programa se abrirá y podremos configurar nuestros datos personales o laborales.
+
+También podemos observar los diferentes comandos que se utilizan en git para la linux y también para MAC OS.
+Para utilizar git debemos inicializar un repositorio si no nos dará un mensaje de advertencia; si queremos verificar el estado de nuestros archivos usamos el comando git status; si queremos agregar archivos al repositorio usamos git add y git commit, antes de escribir git commit podemos escribir un comentario para señalar los cambios realizados en los archivos; para ver el historial de cambios podemos ejecutarlo con git log; si necesitamos ver los cambios podemos hacerlo con git diff; si queremos omitir un archivo para no almacenarlo el repositorio agregamos   .gitignore en el archivo y agregar el listado de los archivos que queremos ignorar en el caso de java ignoramos los archivos  .class; para trasladar los cambios realizados localmente a nuestra cuenta de github debemos tener el repositorio en github. 
+
+Para inicializar el repositorio debemos hacerlo con git init; podemos clonar el repositorio si tenemos archivos creados en un repositorio y luego trabajar en el repositorio clonado si tenemos archivos en nuestro repositorio local asociamos el repositorio remoto con el siguiente comando git remote add origin; finalmente trasladamos los cambios locales al repositorio remoto con git push origin master donde master es la rama principal del repositorio si tenemos más ramas hacemos push a la rama donde se esté trabajando, y luego podemos verlo en github. 
+
+Es una buena práctica mantener separados las mejoras en diferentes ramas.
+
+En esta tercera unidad lo que me parece importante es aprender principalmente la funcionalidad de git, ya que esto nos ayuda a realizar el trabajo de forma más fácil; lo que más me ocasionó dificultad puede aprender los comandos el orden de ellos y las pequeñas variables según lo que queremos lograr.
